@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1722964811032_205_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "invtracking",
+    "packageName": "",
+    "content": {
+        "property": "useExportToExcel",
+        "newValue": true
+    },
+    "selector": {
+        "id": "invtracking::sap.suite.ui.generic.template.ListReport.view.ListReport::ZINVOICE_TRACKING_P--listReport",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smarttable.SmartTable"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/invtracking/changes/",
+    "projectId": "",
+    "creation": 1722964811032,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.124.2",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
